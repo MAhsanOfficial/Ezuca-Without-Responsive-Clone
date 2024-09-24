@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# Ezuca-ReactJS-Clone" 
 "# Ezuca-ReactJS-Clone" 
 "# ReactJS-Ezuca-Clone" 
+"# Ezuca-Clone-ReactJS" 
